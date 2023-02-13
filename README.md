@@ -18,14 +18,14 @@
 <br/>
 <br/>
   
-- 📗 [***aiko-chan-ai/discord.js-selfbot-v13***](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) <br/>
-  An unofficial discord.js fork for creating selfbots
+- 📗 [***phantom-da-bytewizard/TalkGPT***](https://github.com/phantom-da-bytewizard/TalkGPT) <br/>
+  A ChatGPT clone discord bot using OpenAI 
 <!-- 📘 [***aiko-chan-ai/DiscordBotClient***](https://github.com/aiko-chan-ai/DiscordBotClient) <br/>-->
-  A patched version of discord, with bot login support
-- 📙 [***aiko-chan-ai/N0va-Desktop-File-Converter***](https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter) <br/>
-  Extract videos and photos from NovaDesktop
-- 📒 [***aiko-chan-ai/NyanRPC***](https://github.com/aiko-chan-ai/NyanRPC) <br/>
-  Mini Discord RPC Client (using Electron and Node.js)
+<!--  A patched version of discord, with bot login support-->
+<!-- 📙 [***aiko-chan-ai/N0va-Desktop-File-Converter***](https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter) <br/>-->
+<!--  Extract videos and photos from NovaDesktop-->
+<!-- 📒 [***aiko-chan-ai/NyanRPC***](https://github.com/aiko-chan-ai/NyanRPC) <br/>-->
+<!--  Mini Discord RPC Client (using Electron and Node.js)-->
 
 <br/>
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
