@@ -2,7 +2,7 @@
 <div>
 <img src="https://media.discordapp.net/attachments/852828337830100992/1074736463964545175/download_5.png?width=702&height=702" width="300" align="right"/>
 <br/>
-<img src="https://media.discordapp.net/attachments/852828337830100992/1074749367170383952/download_6.png" width="520px" />
+<img src="https://media.discordapp.net/attachments/852828337830100992/1074749367170383952/download_6.png" width="500px" />
 <br/>
 <br/>
   
@@ -16,7 +16,7 @@
 
 <img src="https://media.discordapp.net/attachments/852828337830100992/1074738832890671185/download2.png?width=395&height=702" width="300" align="right" />
 <br/>
-<img src="https://media.discordapp.net/attachments/702026422008545370/1074701475827167242/download_4.png" width="520px" />
+<img src="https://media.discordapp.net/attachments/702026422008545370/1074701475827167242/download_4.png" width="500px" />
 <br/>
 <br/>
   
