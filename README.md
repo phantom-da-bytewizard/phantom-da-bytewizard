@@ -37,7 +37,7 @@
 
 ## Discord
 <a href="https://discord.com/users/701845175583899658"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/701845175583899658?theme=dark&bg=0E1225&borderRadius=15px&animated=true&idleMessage=“We%20can%20only%20learn%20to%20love%20by%20loving%20(.%20❛%20ᴗ%20❛.)">
+    <img src="https://lanyard.cnrad.dev/api/701845175583899658?theme=dark&bg=0E1225&borderRadius=15px&animated=true&idleMessage=“We%20can%20only%20learn%20to%20love%20by%20loving%20(.%20❛%20ᴗ%20❛.)“">
   </a>
 
 ## My stats:
