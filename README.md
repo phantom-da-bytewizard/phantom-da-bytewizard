@@ -8,7 +8,7 @@
   
 - <img src="https://discord.com/assets/c210245001be9e8dcc7e334e9e94043d.svg" alt="." width="16" height="16"/> Chief Technology Officer  
 - <img src="https://media.discordapp.net/attachments/852828337830100992/1074741744362586172/92gs8zn0mjz91.jpg" alt="." width="16" height="16"/> Discord Active Developer
-- <img src="https://media.discordapp.net/attachments/852828337830100992/1074755250805805066/download_8.jpg" alt="."  width="16" height="16" /> HTB Verified Bug Bounty Hunter
+- <img src="https://media.discordapp.net/attachments/852828337830100992/1074755250805805066/download_8.jpg" alt="."  width="16" height="16" /> HTB Certified Bug Bounty Hunter
   
 - <img src="https://cdn.discordapp.com/emojis/620827756653051914.png" alt="." width="16" height="16"/> JavaScript, <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript, <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://cdn.discordapp.com/emojis/952439888337313802.png" alt="." width="16" height="16"/> C++
 
